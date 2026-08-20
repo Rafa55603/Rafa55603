@@ -17,8 +17,8 @@
 ![Kali](https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 # 📊 My Stats
-[![GitHub Stats Custom Color](https://github-stats-extended.vercel.app/api?username=Rafa55603&show_icons=true&title_color=4C395D&text_color=271C32&icon_color=815D81&bg_color=C8A2C8&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Rafa55603&layout=compact&text_color=271C32&title_color=4C395D&bg_color=C8A2C8&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)
+![GitHub Stats Custom Color](https://github-stats-extended.vercel.app/api?username=Rafa55603&show_icons=true&title_color=4C395D&text_color=271C32&icon_color=815D81&bg_color=C8A2C8&border_color=30363d)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Rafa55603&layout=compact&text_color=271C32&title_color=4C395D&bg_color=C8A2C8&border_color=30363d)
 ### Informatika ***Jaya!***
 ### Informatika ***Jaya!***
 ### Informatika ***Jaya! Jaya! Terus Informatika!*** 
