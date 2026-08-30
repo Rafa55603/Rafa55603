@@ -5,7 +5,7 @@
 🌱 Currently learning and exploring software development through personal projects<br/>
 🚀 Always curious about how things work — and usually end up trying to build them myself<br/>
 
-# 👩🏻‍💻 Tech Stack
+# 👩🏻‍💻 My Skill
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
